@@ -5,8 +5,10 @@
 
 ### Configuracion
 - Nombre
+
 ***sudo git config --global user.name "nombre"***
 - Mail
+
 ***sudo git config --global user.email "mail"***
 - Enlista con que nombre y mail con los que se hara el commit
 ***sudo git config --global --list*** 
