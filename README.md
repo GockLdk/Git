@@ -40,7 +40,8 @@
 - Una vez creado sincronizas la carpeta con el repositorio.
 
 	***git remote add origin LINK***
-Donde LINK es el link del repositorio.
+
+	Donde LINK es el link del repositorio.
 - Y finalmente subimos el commit al repositorio.
 	
 	***git push -u origin master***
