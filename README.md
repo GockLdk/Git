@@ -6,7 +6,7 @@
 ### Configuracion
 - Nombre
 
-***sudo git config --global user.name "nombre"***
+	***sudo git config --global user.name "nombre"***
 - Mail
 
 ***sudo git config --global user.email "mail"***
