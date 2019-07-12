@@ -28,10 +28,10 @@
 	***git add OPCION***
 	- **Nombre del archivo**.
 	- ** . ** o **-A** para agregar todo lo que se encuentre en la carpeta.
-- Crear el Commit
+- Crear el Commit.
 
 	***git commit -m "comentario del commit"***
-- Historial de commit
+- Historial de los Commits.
 	
 	***git log***
 
